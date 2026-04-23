@@ -26,11 +26,10 @@ Curious and driven developer diving into **Machine Learning**, **Data Science**,
 ## 📊 GitHub Stats & Activity
 
 ### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivu-intel45&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivu-intel45&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivu-intel45&layout=compact&theme=dark)
-
 ---
 
 ## 🧰 Skills & Tools
