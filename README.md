@@ -30,7 +30,8 @@ Curious and driven developer diving into **Machine Learning**, **Data Science**,
 ![GitHub Streak](https://streak-stats.demolab.com?user=rivu-intel45&theme=dark&hide_border=true)
 ### 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivu-intel45&layout=donut&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rivu-intel45&theme=github_dark" />
+
 ### 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rivu-intel45&theme=github-dark)
